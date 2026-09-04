@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Yusuke 👋
 
-<!--
-**Yusuke-Auto/Yusuke-Auto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineer focused on **Verification & Validation, MBSE, and test automation** for automotive and physical AI systems.
 
-Here are some ideas to get you started:
+## 🔧 What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Requirements → Verification → Evidence workflows
+- HiL / ViL / MiL testing
+- MBSE & system-level validation
+- CI/CD and test automation
+- AI-assisted engineering workflows
+
+## 🚀 Current Projects
+
+### Requirements-to-Evidence AI V&V Workbench
+Exploring how AI can connect requirements, test design, execution results, and evidence while keeping human approval in the loop.
+
+### AI-native SDV / Physical AI V&V
+Experiments around simulation, scenario-based validation, and AI-assisted engineering for software-defined vehicles and robotics.
+
+## 🛠 Experience
+
+`MATLAB / Simulink` · `CANoe / CANalyzer` · `HiL` · `MBSE` · `Jenkins` · `Git` · `Python` · `AI-assisted Development`
+
+---
+
+Interested in **AI × V&V × MBSE × Physical AI**.
